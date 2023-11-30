@@ -1,4 +1,6 @@
-# 2022.9.4 公共域名墙了
+## 仓库简介
+
+- 基于`Python`下的`gitcalendar`的自动获取apigithub日志
 
 可以先使用https://gitcalendar.zfe.space/api
 或者使用vecel的自定义域名绑定
@@ -81,3 +83,7 @@ https://github.com/Zfour/friends_link_list_api
 https://python-github-calendar-api-zfour.vercel.app/api/?zfour
 
 如果显示数据则说明API配置成功。
+
+## 感谢作者
+
+- 来自[冰老师](https://github.com/Zfour/python_github_calendar_api)
